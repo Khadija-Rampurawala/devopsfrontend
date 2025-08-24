@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://35.77.93.206:5000';
+const API_URL = import.meta.env.VITE_API_URL || 'https://khadija-b.kjsit.org';
 const ADMIN_TOKEN = import.meta.env.VITE_ADMIN_TOKEN;
 
 // Create axios instance
